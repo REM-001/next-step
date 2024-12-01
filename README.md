@@ -10,4 +10,4 @@
 
 Whether you're planning your day, organizing a project, or managing personal goals, **Next-Step** helps you take productivity to the next level with simplicity and elegance.
 
-![My Image](assets/screen.png)
+![App Screenshot](src/assets/screen.png)
