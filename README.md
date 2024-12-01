@@ -1,30 +1,13 @@
-# React + TypeScript + Vite
+# **Next-Step**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Next-Step** is a sleek and intuitive to-do task manager designed to help you stay organized effortlessly. With its minimalist interface and elegant animations, managing your tasks becomes a delightful experience.
 
-Currently, two official plugins are available:
+## **Features**
+- **Create Tasks:** Quickly add tasks to stay on top of your to-dos.  
+- **Check Off Tasks:** Mark tasks as complete with satisfying animations.  
+- **Delete Tasks:** Remove tasks seamlessly when no longer needed.  
+- **Drag and Drop:** Reorder tasks easily to prioritize what matters most.  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Whether you're planning your day, organizing a project, or managing personal goals, **Next-Step** helps you take productivity to the next level with simplicity and elegance.
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
-
-- Configure the top-level `parserOptions` property like this:
-
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+![My Image](assets/screen.png)
